@@ -36,13 +36,11 @@ choco install cmder
 choco install git -params '"/GitAndUnixToolsOnPath"'
 choco install virtualbox
 choco install vagrant
-choco install docker docker-machine
+choco install docker-for-windows
 
 
 # Games
 choco install steam
 choco install minecraft
-
-
 
 ```
